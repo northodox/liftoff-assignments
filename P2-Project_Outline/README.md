@@ -26,13 +26,12 @@ Usage Graphs - Kitchenizer can generate graphs to present consumption data to us
 Auto Resupply - Kitchenizer be able to automatically order new food supplies from delivery services when running low (Optional).
 
 ### Technologies
-Java
-SpringBoot
-MySQL
-Twillio
+Java, SpringBoot, MySQL, Twillio
 
 
 ### What I'll Have to Learn
 How to generate and send SMS messages
+
 How to present useful graphs based on user selections
+
 How to give additional permissions to select user accounts
