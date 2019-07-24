@@ -14,10 +14,15 @@ How does it work? Kitchen magic, that's how! You simply enter the items you purc
 
 ### Features
 Food Tracking - Kitchenizer will track the food-related items in the kitchen. Users will be able to add and subtract items.
+
 User Accounts - Normal users with basic permissions, Head of Household users with override power
+
 Recipe Suggestions - Kitchenizer will provide suggestions for meals that can be prepared with the items on-hand. (Recipe site API?)
+
 Resupply Reminders - Kitchenizer will send alerts/messages to users as reminders to purchase items that are running low.
+
 Usage Graphs - Kitchenizer can generate graphs to present consumption data to users
+
 Auto Resupply - Kitchenizer be able to automatically order new food supplies from delivery services when running low (Optional).
 
 ### Technologies
