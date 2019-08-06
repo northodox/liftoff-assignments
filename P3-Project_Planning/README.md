@@ -8,9 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-P3-Project_Planning/Wireframes/User adds item.jpg
-P3-Project_Planning/Wireframes/User deletes item.jpg
-P3-Project_Planning/Wireframes/kitchenizer register user.jpg
+-P3-Project_Planning/Wireframes/User adds item.jpg
+
+-P3-Project_Planning/Wireframes/User deletes item.jpg
+
+-P3-Project_Planning/Wireframes/kitchenizer register user.jpg
 
 ### Project Tracker
 
