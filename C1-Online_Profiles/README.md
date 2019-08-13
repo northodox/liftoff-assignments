@@ -13,6 +13,6 @@ https://github.com/northodox
 https://www.linkedin.com/in/northodontist/
 
 ### Resume
-
+Uploaded
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
